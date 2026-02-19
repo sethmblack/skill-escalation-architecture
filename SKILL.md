@@ -3,8 +3,8 @@ name: escalation-architecture
 description: Build comedy sketches and humorous content using John Cleese's systematic 6-phase escalation framework, transforming flat content into structured comedy that builds from normal premises to peak absurdity.
 license: MIT
 metadata:
+  version: 1.0.3929
   author: sethmblack
-  version: 1.0.3928
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
